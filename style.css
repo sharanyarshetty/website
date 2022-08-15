@@ -91,7 +91,7 @@ header a:hover{
 
 #showcase{
 	min-height: 400px;
-	background: url('../img/showcase.png') no-repeat;
+	background: url('./showcase.png') no-repeat;
 	background-size: cover;
 	background-blend-mode: screen;
 	text-align: center;
